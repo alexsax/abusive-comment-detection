@@ -1,0 +1,2 @@
+model_checkpoint_path: "gru_h100_l2_bdTrue.weights"
+all_model_checkpoint_paths: "gru_h100_l2_bdTrue.weights"

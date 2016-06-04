@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: cs224d_final_paper.aux
+The style file: unsrt.bst
+Database file #1: papers.bib
+Warning--entry type for "reddit-data" isn't style-file defined
+--line 12 of file papers.bib
+Warning--entry type for "formspring-data" isn't style-file defined
+--line 29 of file papers.bib
+Warning--entry type for "kaggle-data" isn't style-file defined
+--line 115 of file papers.bib
+A bad cross reference---entry "DBLP:conf/www/NobataTTMC16"
+refers to entry "DBLP:conf/www/2016", which doesn't exist
+Warning--can't use both author and editor fields in Razavi2010
+Warning--empty institution in kaggle2012
+You've used 18 entries,
+            1791 wiz_defined-function locations,
+            543 strings with 6749 characters,
+and the built_in function-call counts, 4306 in all, are:
+= -- 405
+> -- 152
+< -- 10
++ -- 59
+- -- 41
+* -- 224
+:= -- 613
+add.period$ -- 53
+call.type$ -- 18
+change.case$ -- 19
+chr.to.int$ -- 0
+cite$ -- 20
+duplicate$ -- 228
+empty$ -- 445
+format.name$ -- 41
+if$ -- 1034
+int.to.chr$ -- 0
+int.to.str$ -- 18
+missing$ -- 14
+newline$ -- 87
+num.names$ -- 15
+pop$ -- 85
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 140
+stack$ -- 0
+substring$ -- 233
+swap$ -- 87
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 40
+width$ -- 20
+write$ -- 192
+(There was 1 error message)

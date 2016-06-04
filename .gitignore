@@ -1,0 +1,18 @@
+# Gitignore
+
+# Ignore all models and weight files
+models/**
+/output/**
+**/*.weights
+**/*.meta
+
+# No data
+data/**
+**/*.csv
+
+# No compiled code
+**/*.pyc
+**/*.jar
+
+# No sys files
+**/.DS_STORE

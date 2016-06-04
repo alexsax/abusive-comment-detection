@@ -1,0 +1,103 @@
+\begin{thebibliography}{10}
+
+\bibitem{wired-facebook}
+ADRIAN CHEN.
+\newblock The laborers who keep dick pics and beheadings out of your facebook
+  feed.
+\newblock Technical report, WIRED, 2014.
+
+\bibitem{warner2012detecting}
+William Warner and Julia Hirschberg.
+\newblock Detecting hate speech on the world wide web.
+\newblock In {\em Proceedings of the Second Workshop on Language in Social
+  Media}, pages 19--26. Association for Computational Linguistics, 2012.
+
+\bibitem{ishisaka2010detecting}
+Tatsuya Ishisaka and Kazuhide Yamamoto.
+\newblock Detecting nasty comments from bbs posts.
+\newblock In {\em PACLIC}, pages 645--652, 2010.
+
+\bibitem{goyal2013peer}
+Priya Goyal and Gaganpreet~Singh Kalra.
+\newblock Peer-to-peer insult detection in online communities.
+\newblock {\em IITK, unpublished}, 2013.
+
+\bibitem{Razavi2010}
+Amir~H. Razavi, Diana Inkpen, Sasha Uritsky, and Stan Matwin.
+\newblock {\em Advances in Artificial Intelligence: 23rd Canadian Conference on
+  Artificial Intelligence, Canadian AI 2010, Ottawa, Canada, May 31 -- June 2,
+  2010. Proceedings}, chapter Offensive Language Detection Using Multi-level
+  Classification, pages 16--27.
+\newblock Springer Berlin Heidelberg, Berlin, Heidelberg, 2010.
+
+\bibitem{kaggle2012}
+Andreas Mueller.
+\newblock Recap of my first kaggle competition: Detecting insults in social
+  commentary.
+\newblock Technical report, 2012.
+
+\bibitem{DBLP:conf/www/NobataTTMC16}
+Chikashi Nobata, Joel~R. Tetreault, Achint Thomas, Yashar Mehdad, and Yi~Chang.
+\newblock Abusive language detection in online user content.
+\newblock In {\em Proceedings of the 25th International Conference on World
+  Wide Web, {WWW} 2016, Montreal, Canada, April 11 - 15, 2016}, pages 145--153,
+  2016.
+
+\bibitem{Djuric:2015:HSD:2740908.2742760}
+Nemanja Djuric, Jing Zhou, Robin Morris, Mihajlo Grbovic, Vladan Radosavljevic,
+  and Narayan Bhamidipati.
+\newblock Hate speech detection with comment embeddings.
+\newblock In {\em Proceedings of the 24th International Conference on World
+  Wide Web}, WWW '15 Companion, pages 29--30, New York, NY, USA, 2015. ACM.
+
+\bibitem{kaggle-data}
+Detecting insults in social commentary, data, 2012.
+
+\bibitem{nahar2013effective}
+Vinita Nahar, Xue Li, and Chaoyi Pang.
+\newblock An effective approach for cyberbullying detection.
+\newblock {\em Communications in Information Science and Management
+  Engineering}, 3(5):238, 2013.
+
+\bibitem{reynolds2011using}
+Kelly Reynolds, April Kontostathis, and Lynne Edwards.
+\newblock Using machine learning to detect cyberbullying.
+\newblock In {\em Machine Learning and Applications and Workshops (ICMLA), 2011
+  10th International Conference on}, volume~2, pages 241--244. IEEE, 2011.
+
+\bibitem{Kontostathis:2013:DCQ:2464464.2464499}
+April Kontostathis, Kelly Reynolds, Andy Garron, and Lynne Edwards.
+\newblock Detecting cyberbullying: Query terms and techniques.
+\newblock In {\em Proceedings of the 5th Annual ACM Web Science Conference},
+  WebSci '13, pages 195--204, New York, NY, USA, 2013. ACM.
+
+\bibitem{chen2012detecting}
+Ying Chen, Yilu Zhou, Sencun Zhu, and Heng Xu.
+\newblock Detecting offensive language in social media to protect adolescent
+  online safety.
+\newblock In {\em Privacy, Security, Risk and Trust (PASSAT), 2012
+  International Conference on and 2012 International Confernece on Social
+  Computing (SocialCom)}, pages 71--80. IEEE, 2012.
+
+\bibitem{le2014distributed}
+Quoc~V Le and Tomas Mikolov.
+\newblock Distributed representations of sentences and documents.
+\newblock {\em arXiv preprint arXiv:1405.4053}, 2014.
+
+\bibitem{techcrunch-facebook}
+Josh Constine.
+\newblock Facebook spares humans by fighting offensive photos with ai.
+\newblock Technical report, TechCrunch, 2016.
+
+\bibitem{formspring-data}
+Formspring cyberbullying, data, 2010.
+
+\bibitem{reddit-data}
+Rmay 2015 reddit comments, data, 2015.
+
+\bibitem{sculley2008advances}
+D~Sculley.
+\newblock {\em Advances in online learning-based spam filtering}.
+\newblock ProQuest, 2008.
+
+\end{thebibliography}
