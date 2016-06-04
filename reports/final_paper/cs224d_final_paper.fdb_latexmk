@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex cs224d_final_paper"] 1465009511 "cs224d_final_paper.aux" "cs224d_final_paper.bbl" "cs224d_final_paper" 1465009527
+["bibtex cs224d_final_paper"] 1465009511 "cs224d_final_paper.aux" "cs224d_final_paper.bbl" "cs224d_final_paper" 1465009965
   "/usr/local/texlive/2015/texmf-dist/bibtex/bst/base/unsrt.bst" 1292289607 18030 1376b4b231b50c66211e47e42eda2875 ""
-  "cs224d_final_paper.aux" 1464997862 3583 451443b4320c8d4ad3fc40a4e686fb95 ""
+  "cs224d_final_paper.aux" 1465009529 3583 451443b4320c8d4ad3fc40a4e686fb95 ""
   "cs224d_final_paper.bcf" 0 -1 0 ""
   "papers.bib" 1464933612 9599 ebf5ca77c51af073a169e5f685caf9ac ""
   (generated)
   "cs224d_final_paper.bbl"
   "cs224d_final_paper.blg"
-["pdflatex"] 1465009527 "cs224d_final_paper.tex" "cs224d_final_paper.pdf" "cs224d_final_paper" 1465009527
+["pdflatex"] 1465009965 "cs224d_final_paper.tex" "cs224d_final_paper.pdf" "cs224d_final_paper" 1465009965
   "../../analysis/Network_Diagram.png" 1464921821 19095 92430b64b161c28abd773849b1249c81 ""
   "../../analysis/ce_history_train_Learning_Rate.png" 1464864639 42257 316ea16554f114d7b0986753816e73fc ""
   "../../analysis/ce_history_validation_Character_Dropout.png" 1464864643 64041 60f488f61d3e89b7cce69f03f420845f ""
@@ -32,7 +32,7 @@
   "../../analysis/sucker.png" 1464928502 8981 96ef37a4c3a1951e2a7ddacb263beee0 ""
   "../../analysis/trucker.png" 1464928568 8796 4984c317441111529ca622852940c0d5 ""
   "../../analysis/youre_a_great_cook.png" 1464932116 10785 fcea716cf792a42dbdff28cabb3ad911 ""
-  "./cs224d_final_paper.out" 1464997862 47 d5b9273ec22b3a58865b4059604f1bec ""
+  "./cs224d_final_paper.out" 1465009529 47 d5b9273ec22b3a58865b4059604f1bec ""
   "/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1136768653 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -118,13 +118,13 @@
   "/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1432479641 1764542 91654ba72bdb667e84ea24f076ae16d8 ""
   "/usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1432479681 3849859 39a7d258195bde2394e244961601fbc5 ""
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
-  "cs224d_final_paper.aux" 1464997862 3583 451443b4320c8d4ad3fc40a4e686fb95 ""
+  "cs224d_final_paper.aux" 1465009529 3583 451443b4320c8d4ad3fc40a4e686fb95 ""
   "cs224d_final_paper.bbl" 1465009511 3995 7d1807fa58eb8ac2d655a2e3ac1c330b "bibtex cs224d_final_paper"
-  "cs224d_final_paper.out" 1464997862 47 d5b9273ec22b3a58865b4059604f1bec ""
-  "cs224d_final_paper.tex" 1465009526 32145 d6c151bb3a36e31390faf9a358201a9e ""
+  "cs224d_final_paper.out" 1465009529 47 d5b9273ec22b3a58865b4059604f1bec ""
+  "cs224d_final_paper.tex" 1465009961 32150 9b25074dcd3879937b4867e38fc89e1e ""
   "nips13submit_e.sty" 1431116228 8804 cee4cb76ce9b6e282137062c87041468 ""
   (generated)
-  "cs224d_final_paper.pdf"
   "cs224d_final_paper.log"
-  "cs224d_final_paper.out"
+  "cs224d_final_paper.pdf"
   "cs224d_final_paper.aux"
+  "cs224d_final_paper.out"

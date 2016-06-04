@@ -83,7 +83,7 @@ Finally, insults may be very fluent and grammatical, and clean comments may not 
 % 									LIT REVIEW
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Background and Related Work}
-There has been relatively little work done on insult detection. Razavi et al. \cite{Razavi2010} tackle ``flame'' detection using a three-stage Naive Bayes classifier and report an eyebrow-raisingly good accuracy of 97\% after training on their dataset of 1153 Uesnet comments. No one else has come close to these results despite using similar techniques.
+There has been relatively little work done on insult detection. Razavi et al. \cite{Razavi2010} tackle ``flame'' detection using a three-stage Naive Bayes classifier and report an eyebrow-raisingly good test accuracy of 97\% after training on their dataset of 1153 Uesnet comments. No one else has come close to these results despite using similar techniques.
 
 Warner et al. \cite{warner2012detecting} use an ngram SVM classifier to detect hate speech. They report an F1 score of 0.63 and report that (surprisingly) unigram features perform the best on their Yahoo dataset. While hate speech and insults are not the same thing, we had a similar F1 and also found that unigrams outperformed other baseline models (see Results). This may be due to sparsity of the data or the fact that linear models with a bag-of-ngrams are not sufficiently powerful for this task. 
 
